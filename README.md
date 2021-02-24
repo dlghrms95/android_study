@@ -1,5 +1,3 @@
-# android_study
-
 ## [android_roadmap](https://github.com/dlghrms95/android_study/blob/main/ANDROID/android_roadmap.md)
 
 ## 내용정리
